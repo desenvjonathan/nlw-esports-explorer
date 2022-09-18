@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído do evento Next Level Week da Rockseat.
+Projeto construído no evento Next Level Week da Rockseat.
 
 [Clique aqui para acessar](https://desenvjonathan.github.io/nlw-esports-explorer/)
 
@@ -14,7 +14,7 @@ Projeto construído do evento Next Level Week da Rockseat.
 - CSS
 - Git e Github
 
-# Contatos
+## Contatos
 
 - E-mail: desenvjonathan@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/
